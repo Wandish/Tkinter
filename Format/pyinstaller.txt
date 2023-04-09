@@ -1,0 +1,1 @@
+pyinstaller -w -i "D:\Python\Format\iconka.ico" Format.py
